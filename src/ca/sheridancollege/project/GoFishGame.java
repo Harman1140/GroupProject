@@ -6,7 +6,10 @@ package ca.sheridancollege.project;
 
 /**
  *
- * @author dilro
+ * @modifier Dilrose
+ * @modifier Harman
+ * @modifier navleen
+ * @modifier Ritika
  */
 import java.util.ArrayList;
 import java.util.Scanner;

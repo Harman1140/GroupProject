@@ -12,7 +12,10 @@ package ca.sheridancollege.project;
  * once. The group of cards has a maximum size attribute which is flexible for reuse.
  *
  * @author dancye
- * @author Paul Bonenfant Jan 2020
+ * @modifier Dilrose
+ * @modifier Harman
+ * @modifier navleen
+ * @modifier Ritika
  */
 import java.util.ArrayList;
 import java.util.Collections;

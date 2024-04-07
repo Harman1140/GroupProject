@@ -10,6 +10,10 @@ package ca.sheridancollege.project;
  * game. Students wishing to add to the code should remember to add themselves as a modifier.
  *
  * @author dancye
+ * @modifier Dilrose
+ * @modifier Harman
+ * @modifier navleen
+ * @modifier Ritika
  */
 import java.util.ArrayList;
 import java.util.Collections;

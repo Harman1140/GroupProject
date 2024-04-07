@@ -9,7 +9,11 @@ package ca.sheridancollege.project;
  * A class that models each Player in the game. Players have an identifier, which should be unique.
  *
  * @author dancye
- * @author Paul Bonenfant Jan 2020
+ * 
+ * @modifier Dilrose
+ * @modifier Harman
+ * @modifier navleen
+ * @modifier Ritika
  */
 import java.util.ArrayList;
 
